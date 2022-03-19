@@ -2,14 +2,13 @@
 //  AppDelegate.swift
 //  Recipe Discount App
 //
-//  Created by Eduardo Bautista on 3/18/22.
+//  Created by Eduardo Bautista and Nathan Hsiao on 3/18/22.
 //
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {

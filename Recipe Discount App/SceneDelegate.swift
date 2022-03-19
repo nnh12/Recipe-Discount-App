@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Recipe Discount App
 //
-//  Created by Eduardo Bautista on 3/18/22.
+//  Created by Eduardo Bautista and Nathan Hsiao on 3/18/22.
 //
 
 import UIKit

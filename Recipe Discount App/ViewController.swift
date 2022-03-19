@@ -2,18 +2,16 @@
 //  ViewController.swift
 //  Recipe Discount App
 //
-//  Created by Eduardo Bautista on 3/18/22.
+//  Created by Eduardo Bautista and Nathan Hsiao on 3/18/22.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class ViewController: UIViewController{
+    
     override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
-
+            super.viewDidLoad()
+            // Do any additional setup after loading the view.
+        }
 
 }
-
